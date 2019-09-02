@@ -6,9 +6,6 @@ have been imported into the IDE.
 Our final project, called “FOMO NoMore” is meant to be a website that allows Harvard students to view all the events that are happening on campus, all on a single
 website. These events will be placed into different categories, based on their nature.
 
-This web app will be run entirely within CS50's IDE. All the necessary libraries have been imported into the code and all the pictures used in the design of the code
-have been imported into the IDE.
-
 Administrators will be able to log in to post events. To do this, they should click on “Admin Register” then enter their username and password, then confirm the password.
 All three of these are required fields. An error message will be rendered if any field is left blank or if the passwords don’t match. If they manage to register, they
 should be redirected to the homepage, where they can now post new events
